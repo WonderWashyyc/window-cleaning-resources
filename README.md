@@ -1,15 +1,11 @@
-# window-cleaning-resources
-window-cleaning-resources
+Welcome to our open resource page for **window cleaning in Calgary** and surrounding areas.  
+We’ve collected trusted companies that specialize in **residential, commercial, and post-construction window cleaning**,  
+as well as **pressure washing** and **exterior maintenance**. These resources are great for homeowners and property managers  
+looking for quality exterior cleaning professionals.
 
-<h2>Calgary Window & Exterior Cleaning Resources</h2>
-
-<p>Check out <a href="https://wonderwindowwashing.ca" target="_blank">WonderWash Window Cleaning in Calgary</a> 
-for professional residential and commercial window cleaning services.</p>
-
-<p>Also see our partners:
-<ul>
-  <li><a href="https://precisionwindowwashing.ca">Precision Window Washing</a></li>
-  <li><a href="https://topdawg.ca">Top Dawg Pressure Wash</a></li>
-</ul>
+<p>
+For streak-free results, visit 
+<a href="https://wonderwindowwashing.ca" target="_blank" rel="noopener">WonderWash Window Cleaning Calgary</a>  
+or check out <a href="https://precisionwindowwashing.ca">Precision Window Washing</a>  
+and <a href="https://topdawg.ca">Top Dawg Pressure Wash</a> for reliable exterior services.
 </p>
-
